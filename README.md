@@ -16,7 +16,7 @@ Used GridSearch to tune model parameters.</b>
 Tuned and compared two different classifiers.</b>
 
 
-Reporting
+## Report
 
 Two models were created using  LogisticRegression and SVC. LogisticRegression seems to predict better than SCV with the score of Training Data Score: 0.8426473393095556 and 
 Testing Data Score: 0.8409610983981693.
