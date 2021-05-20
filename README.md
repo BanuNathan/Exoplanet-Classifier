@@ -6,8 +6,8 @@
 Over a period of nine years in deep space, the NASA Kepler space telescope has been out on a planet-hunting mission to discover hidden planets outside of our solar system. To help process this data, a e machine learning models capable of classifying candidate exoplanets from the raw dataset has been created .
 
 ## Steps followed
-pre processed the Datac </b>
-Preprocessed the dataset prior to fitting the model.</b>
+</b> pre processed the Datac </b>
+</b> Preprocessed the dataset prior to fitting the model.</b>
 Performed feature selection and removed unnecessary features.</b>
 Use dMinMaxScaler to scale the numerical data.</b>
 Separated the data into training and testing data.</b>
@@ -17,4 +17,6 @@ Tune and compared two different classifiers.</b>
 
 
 Reporting
-Create a README that reports a comparison of each model's performance as well as a summary about your findings and any assumptions you can make based on your model (is your model good enough to predict new exoplanets? Why or why not? What would make your model be better at predicting new exoplanets?).
+
+Two models were created using  LogisticRegression and SVC. LogisticRegression seems to predict better than SCV with the score of Training Data Score: 0.8426473393095556 and 
+Testing Data Score: 0.8409610983981693.
