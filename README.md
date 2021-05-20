@@ -13,7 +13,7 @@ Use dMinMaxScaler to scale the numerical data.</b>
 Separated the data into training and testing data.</b>
 Tuned Model Parameters</b>
 Used GridSearch to tune model parameters.</b>
-Tune and compared two different classifiers.</b>
+Tuned and compared two different classifiers.</b>
 
 
 Reporting
