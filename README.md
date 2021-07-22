@@ -1,4 +1,4 @@
-# machine-learning-challenge
+# Exoplanet Classifier
 <img src = "https://github.com/BanuNathan/machine-learning-challenge/blob/main/Images/exoplanets.jpg">
 
 ## Background
